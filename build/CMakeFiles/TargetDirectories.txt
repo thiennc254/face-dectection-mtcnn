@@ -1,0 +1,4 @@
+/home/nct/Workspace/Face_MTCNN/mtcnn-opencv/build/CMakeFiles/infer_photo.dir
+/home/nct/Workspace/Face_MTCNN/mtcnn-opencv/build/CMakeFiles/infer_cam.dir
+/home/nct/Workspace/Face_MTCNN/mtcnn-opencv/build/CMakeFiles/edit_cache.dir
+/home/nct/Workspace/Face_MTCNN/mtcnn-opencv/build/CMakeFiles/rebuild_cache.dir
